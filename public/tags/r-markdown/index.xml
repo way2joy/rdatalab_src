@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on 알데이터랩</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on 알데이터랩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>흐림없이 맑은 눈</title>
+      <link>/2018/05/27/2018-05-27-%ED%9D%90%EB%A6%BC%EC%97%86%EC%9D%B4-%EB%A7%91%EC%9D%80-%EB%88%88/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/27/2018-05-27-%ED%9D%90%EB%A6%BC%EC%97%86%EC%9D%B4-%EB%A7%91%EC%9D%80-%EB%88%88/</guid>
+      <description>기분 좋게 하루를 시작했는데, 어제까지 잘되던 키보드가 먹통이 되었다. 액토라는 회사의 2.4G Hz 키보드였는데, 휴렛팩커드의 ENVY 노트북에 USB포트 연장해서 쓰고 있</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

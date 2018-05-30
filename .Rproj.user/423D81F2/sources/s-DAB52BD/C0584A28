@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527685198921.000,
+    "dirty" : true,
+    "encoding" : "CP949",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C0584A28",
+    "lastKnownWriteTime" : 1527685281,
+    "last_content_update" : 1527685366195,
+    "path" : "D:/projects/rdatalab_src/bookdown_src.R",
+    "project_path" : "bookdown_src.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

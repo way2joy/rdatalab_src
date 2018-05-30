@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>알데이터랩</title>
+    <link>/</link>
+    <description>Recent content on 알데이터랩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Name of the work 2</title>
+      <link>/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/work2/</guid>
+      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 3</title>
+      <link>/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/work3/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item without image</title>
+      <link>/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work4/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 5</title>
+      <link>/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/work5/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 6</title>
+      <link>/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>/portfolio/work6/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 7</title>
+      <link>/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>/portfolio/work7/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 8</title>
+      <link>/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>/portfolio/work8/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>/portfolio/work9/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>/portfolio/work11/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R-기본-활용법</title>
+      <link>/2018/05/28/2018-05-28-r-%EA%B8%B0%EB%B3%B8-%ED%99%9C%EC%9A%A9%EB%B2%95/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/28/2018-05-28-r-%EA%B8%B0%EB%B3%B8-%ED%99%9C%EC%9A%A9%EB%B2%95/</guid>
+      <description>한국 정보화 진흥원 홈페이지에서 구한 R실습용 데이터와 코드를 제가 일부 조정하여 웹에 올릴 수 있는지 테스트 중입니다. 무료로 웹에서 페이지를 만드는 것이 쉽지는 않</description>
+    </item>
+    
+    <item>
+      <title>흐림없이 맑은 눈</title>
+      <link>/2018/05/27/2018-05-27-%ED%9D%90%EB%A6%BC%EC%97%86%EC%9D%B4-%EB%A7%91%EC%9D%80-%EB%88%88/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/27/2018-05-27-%ED%9D%90%EB%A6%BC%EC%97%86%EC%9D%B4-%EB%A7%91%EC%9D%80-%EB%88%88/</guid>
+      <description>기분 좋게 하루를 시작했는데, 어제까지 잘되던 키보드가 먹통이 되었다. 액토라는 회사의 2.4G Hz 키보드였는데, 휴렛팩커드의 ENVY 노트북에 USB포트 연장해서 쓰고 있</description>
+    </item>
+    
+    <item>
+      <title>Python for Everybody</title>
+      <link>/2018/02/07/2018-02-07-python-for-everybody/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/07/2018-02-07-python-for-everybody/</guid>
+      <description>지난 프로젝트가 끝나고 나서, 그동안 못봤었던 위캠 교수님의 Advanced R을 마저 읽고, 빈둥거리며 뭐에 시간 투자하는 것이 좋을까 고민하다가, 지난 1월 16일 부터 파이썬</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 1</title>
+      <link>/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work1/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

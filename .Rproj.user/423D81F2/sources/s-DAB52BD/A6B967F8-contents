@@ -1,0 +1,61 @@
+baseurl = "/"
+title = "?븣?뜲?씠?꽣?옪"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "ko-KR"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+relativeURLS = true
+enableEmoji = true
+# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+hasCJKLanguage = true
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "R?쓣 ?솢?슜?븳 ?뜲?씠?꽣 遺꾩꽍 ?쟾臾멸린?뾽"
+  copyright = "&copy;2018 ?븣?뜲?씠?꽣?옪"
+  sidebarAbout = [
+    "吏?궃 3?뀈?룞?븞 ?떎?뼇?븳 怨듦났怨? 誘쇨컙 遺遺꾩쓽 ?뜲?씠?꽣 遺꾩꽍 ?봽濡쒖젥?듃瑜? ?꽦怨듭쟻?쑝濡? ?닔?뻾?븯???뒿?땲?떎.",
+    "?젣媛 遺꾩꽍?뿉 二쇰룄?쟻?쑝濡? 李몄뿬?븳 ?봽濡쒖젥?듃媛 2017?뀈 怨듦났鍮낅뜲?씠?꽣 ?솢?슜遺꾩꽍 寃쎌쭊???쉶?뿉 鍮낅뜲?씠?꽣瑜? ?솢?슜?븳 ?룄濡쒓?由? 紐⑤뜽?씠?씪?뒗 ?씠由꾩쑝濡? 異쒗뭹?릺?뼱 ?옣?젮?긽?쓣 ?닔?긽?븯???뒿?땲?떎."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "unho.chang@gmail.com"
+
+  # Nav links in the side bar
+
+  [[params.navlinks]]
+  name = "?븣?뜲?씠?꽣?옪 ?냼媛?"
+  url = "about/"
+
+  
+  [[params.navlinks]]
+  name = "釉붾줈洹?"
+  url = "blog/"
+  home = true
+
+  [[params.navlinks]]
+  name = "?뿰?씫泥?"
+  url = "contact/"
+  
+
+  [params.social]
+  email         = "unho.chang@gmail.com"
+  facebook      = "https://www.facebook.com/unho.chang"
+  github        = "http://github.com/way2joy"
+
+  [permalinks]
+  blog = "/:year/:month/:day/:slug/"

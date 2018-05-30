@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R vs Python on 알데이터랩</title>
+    <link>/tags/r-vs-python/</link>
+    <description>Recent content in R vs Python on 알데이터랩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-vs-python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python for Everybody</title>
+      <link>/2018/02/07/2018-02-07-python-for-everybody/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/07/2018-02-07-python-for-everybody/</guid>
+      <description>지난 프로젝트가 끝나고 나서, 그동안 못봤었던 위캠 교수님의 Advanced R을 마저 읽고, 빈둥거리며 뭐에 시간 투자하는 것이 좋을까 고민하다가, 지난 1월 16일 부터 파이썬</description>
+    </item>
+    
+  </channel>
+</rss>

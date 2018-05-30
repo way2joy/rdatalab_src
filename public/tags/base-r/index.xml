@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Base R on 알데이터랩</title>
+    <link>/tags/base-r/</link>
+    <description>Recent content in Base R on 알데이터랩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/base-r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R-기본-활용법</title>
+      <link>/2018/05/28/2018-05-28-r-%EA%B8%B0%EB%B3%B8-%ED%99%9C%EC%9A%A9%EB%B2%95/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/28/2018-05-28-r-%EA%B8%B0%EB%B3%B8-%ED%99%9C%EC%9A%A9%EB%B2%95/</guid>
+      <description>한국 정보화 진흥원 홈페이지에서 구한 R실습용 데이터와 코드를 제가 일부 조정하여 웹에 올릴 수 있는지 테스트 중입니다. 무료로 웹에서 페이지를 만드는 것이 쉽지는 않</description>
+    </item>
+    
+  </channel>
+</rss>

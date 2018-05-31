@@ -6,10 +6,19 @@
     <description>Recent content in R on 알데이터랩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blogdown &amp; bookdown</title>
+      <link>/2018/05/31/2018-05-31-blogdown-bookdown/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/31/2018-05-31-blogdown-bookdown/</guid>
+      <description>통신사 IPTV 데이터 분석 프로젝트를 갑작스럽게 일찍 마무리하게 됨에 따라, 생각지도 않던 여유가 생기는 바람에 무엇을 할 까 고민하다가, 그동안 미뤄 두었던 정적(St</description>
+    </item>
     
     <item>
       <title>R-기본-활용법</title>
